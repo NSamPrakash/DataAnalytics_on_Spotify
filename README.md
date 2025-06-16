@@ -13,16 +13,25 @@ Performed basic analysis and visualizations using Pandas and Matplotlib to under
 🛠️ Tech Stack:
 
 Python
+
 Spotipy (Spotify API Wrapper)
+
 MySQL
+
 PyMySQL
+
 Pandas
+
 Matplotlib
 
 📌 Skills Applied:
 
 API Integration
+
 SQL Data Insertion
+
 ETL (Extract, Transform, Load) Pipeline
+
 Data Cleaning & Analysis
+
 Visualization with Matplotlib
