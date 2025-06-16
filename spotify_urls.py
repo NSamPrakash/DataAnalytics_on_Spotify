@@ -6,8 +6,8 @@ import pymysql
 
 # Set up Spotify API credentials
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id='46e968edf31c42cb8e24d3759ed10eb9',  # Replace with your Client ID
-    client_secret='af7f58364b924f8297b4b65f7fb59c67'  # Replace with your Client Secret
+    client_id='',  # Replace with your Client ID
+    client_secret=''  # Replace with your Client Secret
 ))
 
 # MySQL Database Connection
